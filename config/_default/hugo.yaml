@@ -1,26 +1,34 @@
-# Configuration of Hugo
+##### CONFIGURATION OF HUGO ####
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
+############################
+## BASICS
+############################
+# Website theme
+theme: "theme-academic-cv"
+
 # Website name
-title: Hugo Academic CV Theme
+title: Luis Perez
+
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'http://www.luisperezecon.com'
+
 
 ############################
 ## LANGUAGE
 ############################
-
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+
 ############################
 ## ADVANCED
 ############################
-
 build:
   writeStats: true
 enableGitInfo: false
@@ -38,7 +46,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -49,7 +57,16 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep

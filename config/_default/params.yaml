@@ -6,7 +6,11 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
@@ -14,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -26,23 +30,37 @@ marketing:
     google: ''
     baidu: ''
 
+# Contact
+email: luisperez@smu.edu
+phone: 612 501 4882
+address:
+  street: 3300 Dyer St
+  city: Dallas
+  region: TX
+  zipcode: 75275
+
 # Site header
 header:
   navbar:
     enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_activate_link: true 
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Luis Perez"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2024 Luis Perez.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -51,10 +69,57 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-
+  address_format: en-us
+    
 # Site features
 features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/luiscanyamel/personal_website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

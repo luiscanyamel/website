@@ -1,17 +1,43 @@
 ---
 # Display name
-title: 吳健雄
+title: Luis Perez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Luis 
+last_name: Perez
 
-# Status emoji
-status:
-  icon: ☕️
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: Southern Methodist University
+    url: https://www.smu.edu
+    icon: brands/SMU_logo
+    
+# Role/position/tagline
+role: Assistant Professor
+
+# Links to CV, Email, Google scholar, Github, LindkedIn, Twitter 
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: envelope
+    url: 'mailto:luisperez@smu.edu'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/luiscanyamel
+  - icon: brands/github
+    url: https://github.com/luiscanyamel
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/luis-perez-08831b86
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=UdYwbcMAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/my-orcid?orcid=0000-0001-7844-6318
+    
+# Status emoji (added next to circled picture)
+status: 
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,168 +45,181 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Chief Scientist
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+# Research interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Macroeconomics
+  - Public Finance
+  - Industrial Organization
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Economics
+    institution: University of Minnesota
+    year: 2024
+    date_start: '2018-09-01'
+    date_end: '2024-05-31'
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - GPA: 3.7/4
+      - Thesis: Essays in Macroeconomics.
+      - Committee: V.V. Chari, Loukas Karabarbounis, Christopher Phelan.
+  - area: MSc Economics
+    institution: KTH Royal Institute of Technology
+    year: 2017
+    date_start: '2015-09-01'
+    date_end: '2017-06-30'
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Ranked: 1/36.
+      - GPA: 4.92/5.
+  - area: BA Business Administration
+    institution: Universidad Rey Juan Carlos
+    year: 2015
+    date_start: '2011-09-01'
+    date_end: '2015-06-30'
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Ranked: 1/267.
+      - GPA: 8.95/10.
+      - Exchange studies in Karlstad University.
+              
+# Work Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Assistant Professor of Economics
+    company_name: Southern Methodist University
+    company_url: 'https://smu.edu'
+    company_logo: brands/SMU_logo
+    date_start: 2024-08-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    summary: 
+  - position: Instructor of Economics
+    company_name: University of Minnesota
+    company_url: 'https://twin-cities.umn.edu/'
+    company_logo: brands/UMN_logo
+    date_start: 2021-09-01
+    date_end: 2024-05-31
+    summary: Taught undergraduate class Economy of Latin America (ECON4301)
+  - position: Research Analyst
+    company_name: Federal Reserve Bank of Minneapolis
+    company_url: 'https://www.minneapolisfed.org'
+    company_logo: brands/FRB_Minneapolis_logo
+    date_start: 2020-09-01
+    date_end: 2021-06-30
+    summary: Provided research assistance to V.V. Chari
+  - position: Lecturer and Researcher
+    company_name: KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/en'
+    company_logo: brands/KTH_logo
+    date_start: 2017-09-01
+    date_end: 2018-06-30
+    summary: Taught graduate classes Economic Growth (ME2708) & Macroeconomics (ME2720)
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 2nd Prize in Third-Year Paper Competition
+    url: 
+    date: '2021-09-01'
+    awarder: Department of Economics, University of Minnesota
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - Awarded on a yearly basis to the best three research papers written by third-year PhD students.
+  - title: GRPP Research Fellowship
+    url: 
+    date: '2022-06-01'
+    awarder: Department of Economics, University of Minnesota
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Scholarship to conduct research during the summer months.
+  - title: La Caixa Fellowship
+    url:
+    date: '2017-06-30'
+    awarder: Fundacion La Caixa 
+    icon: 
+    summary: | 
+      - Merit-based scholarship to support Spanish students in the North America and Asia Pacific region.
+  - title: Ramon Areces Fellowship
+    url: 
+    certificate_url:
+    date: '2015-06-30'
+    awarder: Fundacion Ramon Areces
+    icon:
+    summary: | 
+      - Merit-based scholarship to support graduate studies of Spanish students abroad.
+  - title: Premio Extraordinario
+    url: 
+    certificate_url:
+    date: '2015-06-30'
+    awarder: Universidad Rey Juan Carlos
+    icon:
+    summary: | 
+      - Awarded upon graduation to the best undergraduate students.
+  - title: XXXIII ASTER National Research Prize (Spain)
+    url: 
+    certificate_url:
+    date: '2014-06-30'
+    awarder: ESIC Universidad
+    icon:
+    summary: | 
+      - Recognition to research work as an undergraduate student.
+
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/` code-bracket chart-bar icon
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: python
+        icon_pack: fab
+      - name: Matlab
+        description: ''
+        percent: 100
+        icon: brands/matlab
+      - name: Stata
+        description: ''
+        percent: 100
+        icon: brands/stata 
+        icon_pack: fas
+      - name: LaTeX
+        description: ''
+        percent: 40
+        icon: brands/LaTeX
+
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Food
+        description: ''
+        percent: 100
+        icon: brands/food   
+      - name: Wine
+        description: ''
+        percent: 100
+        icon: brands/wine
+        icon_pack: fas
+      - name: Soccer
+        description: ''
+        percent: 100
+        icon: brands/soccer-ball
+      - name: Running
+        description: ''
+        percent: 80
+        icon: brands/run
+
+languages:
+  - name: English
+    percent: 100
+  - name: Spanish
+    percent: 100
+  - name: Catalan
+    percent: 50
+
+
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor of Economics at Southern Methodist University. My research interests are in Macroeconomics, Public Finance, and Industrial Organization. My recent work has tackled questions on market power, productivity, and health.
