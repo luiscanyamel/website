@@ -40,7 +40,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'uploads/GV_slides_MM.pdf'
+url_slides: 'uploads/GVP_slides_MM.pdf'
 url_source: ''
 url_video: ''
 
