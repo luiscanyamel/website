@@ -12,8 +12,8 @@ address:
   postcode: '08193'
   country: Spain
 
-summary: I will present "The Micro-Aggregated Profit Share."
-abstract: ''
+summary: Two of my papers will be presented at the 2024 Annual Meeting of the SED. I will present "The Micro-Aggregated Profit Share", and Chari will present "On the Efficiency of Competitive Equilibria with Pandemics."
+abstract: 'Two of my papers will be presented at the 2024 Annual Meeting of the SED. I will present "The Micro-Aggregated Profit Share", and Chari will present "On the Efficiency of Competitive Equilibria with Pandemics." Information for my presentation is provided below. '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -52,6 +52,7 @@ slides: ""
 projects:
   - example
 ---
+
 
 
 

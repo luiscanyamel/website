@@ -60,7 +60,7 @@ education:
     date_start: '2018-09-01'
     date_end: '2024-05-31'
     summary: |
-      - GPA: 3.7/4
+      - GPA: 3.7/4.
       - Thesis: Essays in Macroeconomics.
       - Committee: V.V. Chari, Loukas Karabarbounis, Christopher Phelan.
   - area: MSc Economics
@@ -111,6 +111,7 @@ work:
     date_start: 2017-09-01
     date_end: 2018-06-30
     summary: Taught graduate classes Economic Growth (ME2708) & Macroeconomics (ME2720)
+
 
 # Awards.
 #   Add/remove as many awards below as you like.

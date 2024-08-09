@@ -25,15 +25,26 @@ sections:
       css_class: dark
       background:
         color: white
+        text_color_light: true
+        # Choose colors for background from https://html-color-codes.info
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
+        
+        # Image background (overrided gradient above)
         image:
           # Add your image background to `assets/media/`.
           filename: SMU_color.png
           filters:
+            # Darken the image? Range 0-1, where 0 is opaque and 1 is transparent
             brightness: 1.0
+          # Image fit. Options are: cover (default), contain, actual (actual size)
           size: cover
+          # Image focal point. Options: left, center (default), right
           position: center
+          # Use parallax-like fixed background effect on desktop?
           parallax: false
       spacing: 
+        # Section spacing: [top, right, bottom, left]
         padding: ["20px", "0", "30px", "0"]
       
   - block: markdown
@@ -51,11 +62,12 @@ sections:
         - The third is concerned with policy and works toward detecting market failures in different aspects of economic life to propose optimal interventions. 
         
     
-  To learn more, please read my research statement <https://luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf>."
-
+  To learn more, please read my research statement by browsing this link: <mark>luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf</mark>. [here](https://luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf)"
 
     design:
       columns: '1'
+      
+      
   - block: collection
     id: papers
     content:

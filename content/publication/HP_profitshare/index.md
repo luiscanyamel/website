@@ -25,9 +25,8 @@ abstract: "How much has market power increased in the United States in the last 
 summary: "How much has market power increased in the United States in the last fifty years? And how did the rise in market power affect aggregate profits?"
 
 tags:
-- Macroeconomics
-- Income Shares
 - Market Power
+- Income Shares
 - Markups
 - Profits
 

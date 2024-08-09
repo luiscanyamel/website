@@ -36,7 +36,7 @@ featured: false
 links:
 - name: NBER WP
   url: https://www.nber.org/system/files/working_papers/w31116/w31116.pdf
-url_pdf: ''
+url_pdf: "uploads/CKP23.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -44,6 +44,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+url_slides: 'uploads/CKP_slides_SED.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,15 +58,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "slides_CKP.pdf"
+slides: ""
 ---
 
 

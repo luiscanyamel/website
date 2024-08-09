@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: ''
+    description: 'Assistant Professor at SMU'
+    twitter: 'luiscanyamel'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-82ED929KPG'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -42,25 +42,41 @@ address:
 # Site header
 header:
   navbar:
+    # Display navigation bar?
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_activate_link: true 
+    # Choose a built-in navigation blox or create your own
     blox: "navbar"
+    # Align menu links: "left", "center", "right"
+    align: l
+    # Fix navigation bar to the top of the page
     fixed_to_top: true
-    show_theme_chooser: true
+    # Show logo in browser 
+    show_logo: true
+    # Logo
     logo:
+      # Logo text
       text: "Luis Perez"
+      # Log filename in assets/media/ folder
+      filename: "icon.png"
+    # Show language of website
+    show_language: false
+    # Let the user choose between light or dark mode
+    show_theme_chooser: true
+    # Give option to choose website day or night theme
+    show_day_night: true
+    # Let the user search from the navigation bar
+    show_search: true
+    # Attempt to automatically highlight the active menu link
+    highlight_activate_link: true 
+
 
 # Site footer
 footer:
+  block: minimal
   copyright:
-    notice: '© 2024 Luis Perez.'
+    notice: '© 2024 Luis Perez. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -77,7 +93,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
