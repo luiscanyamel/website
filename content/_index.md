@@ -24,25 +24,25 @@ sections:
     design:
       css_class: dark
       background:
-        color: white
-        # text_color_light: false
+        color: '#0033a0'
+        # text_color_light: true
         # Choose colors for background from https://html-color-codes.info
-        # gradient_start: '#4bb4e3'
-        # gradient_end: '#2b94c3'
+        gradient_start: '#0033a0'
+        gradient_end: '#0033a0'
         
         # Image background (overrided gradient above)
-        image:
+        #image:
           # Add your image background to `assets/media/`.
-          filename: SMU_color.png
-          filters:
+          #filename: SMU_color.png
+          #filters:
             # Darken the image? Range 0-1, where 0 is opaque and 1 is transparent
-            brightness: 0.0
+            #brightness: 0.0
           # Image fit. Options are: cover (default), contain, actual (actual size)
-          size: cover
+          #size: cover
           # Image focal point. Options: left, center (default), right
-          position: center
+          #position: center
           # Use parallax-like fixed background effect on desktop?
-          parallax: false
+          #parallax: false
       spacing: 
         # Section spacing: [top, right, bottom, left]
         padding: ["20px", "0", "30px", "0"]
