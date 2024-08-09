@@ -25,10 +25,10 @@ sections:
       css_class: dark
       background:
         color: white
-        text_color_light: false
+        # text_color_light: false
         # Choose colors for background from https://html-color-codes.info
-        gradient_start: '#4bb4e3'
-        gradient_end: '#2b94c3'
+        # gradient_start: '#4bb4e3'
+        # gradient_end: '#2b94c3'
         
         # Image background (overrided gradient above)
         image:
