@@ -25,7 +25,7 @@ sections:
       css_class: dark
       background:
         color: white
-        text_color_light: true
+        text_color_light: false
         # Choose colors for background from https://html-color-codes.info
         gradient_start: '#4bb4e3'
         gradient_end: '#2b94c3'
@@ -36,7 +36,7 @@ sections:
           filename: SMU_color.png
           filters:
             # Darken the image? Range 0-1, where 0 is opaque and 1 is transparent
-            brightness: 1.0
+            brightness: 0.0
           # Image fit. Options are: cover (default), contain, actual (actual size)
           size: cover
           # Image focal point. Options: left, center (default), right
