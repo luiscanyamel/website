@@ -65,7 +65,7 @@ sections:
   To learn more, please read my research statement by browsing this link: <mark>luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf</mark>. [here](https://luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf)"
 
     design:
-      columns: '2'
+      columns: '1'
       
       
   - block: collection
