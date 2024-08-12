@@ -41,7 +41,6 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
 url_source: ''
 url_video: ''
 url_slides: 'uploads/CKP_slides_SED.pdf'
@@ -65,7 +64,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: "" (Not needed when having url_slides)
 ---
 
 

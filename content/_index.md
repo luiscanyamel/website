@@ -51,23 +51,19 @@ sections:
     content:
       title: 'Research Profile'
       subtitle: ''
-      text: "**I am a macroeconomist interested in Market Power, Aggregate Productivity, and Public Finance**. 
+      text: | 
+        **I am a macroeconomist interested in Market Power, Aggregate Productivity, and Public Finance**. My work seeks to advance three research agendas:
       
-      My work seeks to advance three research agendas:
+          - The first quantifies different sources of market power—monopoly and monopsony—and their impact on the macroeconomy. 
       
-        - The first quantifies different sources of market power—monopoly and monopsony—and their impact on the macroeconomy. 
+          - The second addresses the question, Why are some countries more productive than others? 
       
-        - The second addresses the question, Why are some countries more productive than others? 
-      
-        - The third is concerned with policy and works toward detecting market failures in different aspects of economic life to propose optimal interventions. 
-        
-    
-  To learn more, please read my research statement by browsing this link: <mark>luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf</mark>. [here](https://luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf)"
+          - The third is concerned with policy and works toward detecting market failures in different aspects of economic life to propose optimal interventions. 
 
     design:
       columns: '1'
-      
-      
+
+
   - block: collection
     id: papers
     content:
