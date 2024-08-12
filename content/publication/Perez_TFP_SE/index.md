@@ -35,7 +35,7 @@ tags:
   - Networks
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -63,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: 
   - 
 
 # Slides (optional).
@@ -74,8 +74,8 @@ projects:
 slides: ''
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to download the _Bib_ file.
+{{% callout warning %}}
+Draft coming soon!
 {{% /callout %}}
 
 
