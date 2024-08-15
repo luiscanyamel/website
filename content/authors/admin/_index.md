@@ -223,4 +223,7 @@ languages:
 ---
 
 ## About Me
-I am an Assistant Professor of Economics at Southern Methodist University. My research interests are in Macroeconomics, Public Finance, and Industrial Organization. My recent work has tackled questions on market power, productivity, and health. Eager to learn more? Read my [research statement](https://luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf).
+I am an Assistant Professor at the Department of Economics at Southern Methodist University. I received my Ph.D. from the University of Minnesota in May 2024. 
+
+
+My research interests are in Macroeconomics, Public Finance, and Industrial Organization. My recent work has tackled questions on market power, productivity, and health. Eager to learn more? Read my [research statement](https://luiscanyamel.github.io/website_materials/Research_Statement_LuisPerez.pdf).

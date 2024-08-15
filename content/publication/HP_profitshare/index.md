@@ -1,8 +1,9 @@
 ---
 title: "The Micro-Aggregated Profit Share"
 authors:
-- Thomas Hasenzagl
-- admin
+  - Thomas Hasenzagl
+  - admin
+
 
 date: "2023-12-28T00:00:00Z"
 doi: ""
