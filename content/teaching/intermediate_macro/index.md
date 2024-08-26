@@ -11,11 +11,21 @@ image:
 ---
 <img alt = 'my new screenshot' src='/teaching/intermediate_macro/macro_intro.jpg' />
 
+### Overview
 Welcome! In this course, we will investigate the factors that influence the level of aggregate economic activity and the decision-making that ultimately results in the determination of aggregate economic quantities (e.g., levels of consumption, investment, and employment). You will learn about a wide array of topics, including inflation, exchange rates, business dynamism, monetary and fiscal policy, financial markets, labor markets, etc. You will also analyze the impact of various government fiscal policies (using general equilibrium models) and the behavior of business cycles and patterns across various countries. The hope is that at the end of this course you have a solid understanding of basic macreoconomic concepts, and feel comfortable compiling, analyzing, and writting reports using macroeconomic data. 
 
 ### Prerequisites
 [ECO 1311](https://catalog.smu.edu/preview_course_nopop.php?catoid=33&coid=120231), [ECO 1312](https://catalog.smu.edu/preview_course_nopop.php?catoid=59&coid=223285), [ECO 3301](https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=44547), and [MATH 1309](https://catalog.smu.edu/preview_course_nopop.php?catoid=56&coid=211901) or [MATH 1337](https://catalog.smu.edu/preview_course_nopop.php?catoid=33&coid=121240).
 
+
+### Office Hours
+  * **Office**: <span style="color:blue"> 310C Umphrey Lee</span>.
+  * **Dates & Times**: <span style="color:blue">Mondays, 13:00-17:00</span>, by appointment (**book your slot** [here]()).
+  * **Email**: luisperez@smu.edu. 
+
+### Lecture Meeting Times
+  * **MWF 9:00AM - 9:50AM** (<span style="color:brown">Class #2538</span>)
+  * **MWF 10:00AM - 10:50AM** (<span style="color:brown">Class #3550</span>)
 
 ## Introductory video
 
