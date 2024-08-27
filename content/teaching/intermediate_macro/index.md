@@ -11,7 +11,7 @@ image:
 ---
 <img alt = 'my new screenshot' src='/teaching/intermediate_macro/macro_intro.jpg' />
 
-### Overview
+## Overview
 Welcome! In this course, we will investigate the factors that influence the level of aggregate economic activity and the decision-making that ultimately results in the determination of aggregate economic quantities (e.g., levels of consumption, investment, and employment). You will learn about a wide array of topics, including inflation, exchange rates, business dynamism, monetary and fiscal policy, financial markets, labor markets, etc. You will also analyze the impact of various government fiscal policies (using general equilibrium models) and the behavior of business cycles and patterns across various countries. The hope is that at the end of this course you have a solid understanding of basic macreoconomic concepts, and feel comfortable compiling, analyzing, and writting reports using macroeconomic data. 
 
 ### Prerequisites
