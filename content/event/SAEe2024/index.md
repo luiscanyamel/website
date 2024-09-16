@@ -4,7 +4,7 @@ title: SAEe 2024
 event: 49th Simposium of the Spanish Economic Assocation
 event_url: 'https://asesec.org/simposio-de-la-asociacion-espanola-de-economia-2024/'
 
-location: M. G. Jovellanos Building
+location: M. G. Jovellanos Building, Campus of the University of Balearic Islands (UIB) 
 address:
   street: Cra. de Valldemossa km 7.5
   city: Palma
