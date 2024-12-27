@@ -35,11 +35,11 @@ Welcome! In this course, we will investigate the factors that influence the leve
   * **Midterm**: <span style="color:blue">March 14</span> (Friday).
   * **Final**: <span style="color:blue">May 9</span> (Friday; <span style="color:gray">pending confirmation by the school.</span>)
 
-## Introductory video
-
-
 
 ## Introductory Podcast
+Much of macroeconomics is concerned with long-term economic growth. Listen to [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), this year's Economics Nobel laureate, talk about what makes countries succeed or fail. 
+
+{{< youtube ybDEVhhakxY >}}
 
 
 

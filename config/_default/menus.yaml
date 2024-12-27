@@ -10,6 +10,9 @@ main:
   - name: Research
     url: /#papers
     weight: 11
+  - name: Discussions
+    url: /#discussions
+    weight: 12
   - name: Talks
     url: /#talks
     weight: 13

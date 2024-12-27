@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Macroeconomics | Luis Perez</title><link>http://localhost:4321/tags/macroeconomics/</link><atom:link href="http://localhost:4321/tags/macroeconomics/index.xml" rel="self" type="application/rss+xml"/><description>Macroeconomics</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><image><url>http://localhost:4321/media/icon_hu9180848534300159267.png</url><title>Macroeconomics</title><link>http://localhost:4321/tags/macroeconomics/</link></image><item><title>Intermediate Macroeconomics (ECO3302)</title><link>http://localhost:4321/teaching/intermediate_macro/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>http://localhost:4321/teaching/intermediate_macro/</guid><description>&lt;img alt = 'my new screenshot' src='http://localhost:4321/teaching/intermediate_macro/macro_intro.jpg' />
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Macroeconomics | Luis Perez</title><link>http://localhost:4321/tags/macroeconomics/</link><atom:link href="http://localhost:4321/tags/macroeconomics/index.xml" rel="self" type="application/rss+xml"/><description>Macroeconomics</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>http://localhost:4321/media/icon_hu9180848534300159267.png</url><title>Macroeconomics</title><link>http://localhost:4321/tags/macroeconomics/</link></image><item><title>Intermediate Macroeconomics (ECO3302)</title><link>http://localhost:4321/teaching/intermediate_macro/</link><pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate><guid>http://localhost:4321/teaching/intermediate_macro/</guid><description>&lt;img alt = 'my new screenshot' src='http://localhost:4321/teaching/intermediate_macro/macro_intro.jpg' />
 &lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Welcome! In this course, we will investigate the factors that influence the level of aggregate economic activity and the decision-making that ultimately results in the determination of aggregate economic quantities (e.g., levels of consumption, investment, and employment). You will learn about a wide array of topics, including inflation, exchange rates, business dynamism, monetary and fiscal policy, financial markets, labor markets, etc. You will also analyze the impact of various government fiscal policies (using general equilibrium models) and the behavior of business cycles and patterns across various countries. The hope is that at the end of this course you have a solid understanding of basic macreoconomic concepts, and feel comfortable compiling, analyzing, and writting reports using macroeconomic data.&lt;/p>
 &lt;h3 id="prerequisites">Prerequisites&lt;/h3>
 &lt;p>&lt;a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=33&amp;amp;coid=120231">ECO 1311&lt;/a>, &lt;a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=59&amp;amp;coid=223285">ECO 1312&lt;/a>, &lt;a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&amp;amp;coid=44547">ECO 3301&lt;/a>, and &lt;a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=56&amp;amp;coid=211901">MATH 1309&lt;/a> or &lt;a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=33&amp;amp;coid=121240">MATH 1337&lt;/a>.&lt;/p>
 &lt;h3 id="course-textbook">Course Textbook&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>TBD&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>Macroeconomics&lt;/strong> (Twelfth Edition), N. Gregory Mankiw. ISBN: &lt;a href="https://store.macmillanlearning.com/us/product/Macroeconomics/p/1319473474">9781319567651&lt;/a>&lt;/li>
 &lt;li>More advanced textbook for interested students: &lt;em>TBD&lt;/em>.&lt;/li>
 &lt;/ul>
 &lt;h3 id="office-hours">Office Hours&lt;/h3>
@@ -21,18 +21,47 @@
 &lt;/ul>
 &lt;h3 id="midterm-and-final-exams">Midterm and Final Exams&lt;/h3>
 &lt;ul>
+&lt;li>&lt;strong>Early-progress exam&lt;/strong>: &lt;span style="color:blue">February 24&lt;/span> (Monday).&lt;/li>
 &lt;li>&lt;strong>Midterm&lt;/strong>: &lt;span style="color:blue">March 14&lt;/span> (Friday).&lt;/li>
 &lt;li>&lt;strong>Final&lt;/strong>: &lt;span style="color:blue">May 9&lt;/span> (Friday; &lt;span style="color:gray">pending confirmation by the school.&lt;/span>)&lt;/li>
 &lt;/ul>
-&lt;h2 id="introductory-video">Introductory video&lt;/h2>
 &lt;h2 id="introductory-podcast">Introductory Podcast&lt;/h2>
+&lt;p>Much of macroeconomics is concerned with long-term economic growth. Listen to &lt;a href="https://economics.mit.edu/people/faculty/daron-acemoglu">Daron Acemoglu&lt;/a>, this year&amp;rsquo;s Economics Nobel laureate, talk about what makes countries succeed or fail.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ybDEVhhakxY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
 &lt;h2 id="course-materials">Course Materials&lt;/h2>
 &lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
 &lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
 &lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
 &lt;/span>
-&lt;span class="dark:text-neutral-300">Here you can find &lt;em>syllabus&lt;/em>, &lt;em>slides&lt;/em>, &lt;em>homeworks&lt;/em>, and examples of &lt;em>past exams&lt;/em>.&lt;/span>
-&lt;/div></description></item><item><title>On the Efficiency of Competitive Equilibria with Pandemics</title><link>http://localhost:4321/publication/ckp_pandemics/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>http://localhost:4321/publication/ckp_pandemics/</guid><description/></item><item><title>Macroeconomics for Business (ME2720)</title><link>http://localhost:4321/teaching/macro_business/</link><pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate><guid>http://localhost:4321/teaching/macro_business/</guid><description>&lt;p>Welcome! This course intends to give a deep theoretical but also practical knowledge in applied macroeconomics. Strong emphasis is placed on students solving &amp;ldquo;case studies&amp;rdquo; where they are given assignments that should be solved in groups of 2-3 students. The working method where 2-3 students jointly solve assignments are thought to stimulate discussion and create a deeper understanding of macroeconomic problem formulation and problem-solving. The practical assignments consist largely of data collection, data processing, calculation and analysis of results and oral and written presentation.&lt;/p>
+&lt;span class="dark:text-neutral-300">Here you can find &lt;em>syllabus&lt;/em>, &lt;em>slides&lt;/em>, and examples of &lt;em>past exams&lt;/em>.&lt;/span>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="">Syllabus&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="">Lecture 1&lt;/a>: Introduction and course logistics.&lt;/li>
+&lt;li>&lt;a href="">Lecture 2&lt;/a>: Becoming a macroeconomist (models and data).&lt;/li>
+&lt;li>&lt;a href="">Lecture 3&lt;/a>: National income (How it is earned).&lt;/li>
+&lt;li>&lt;a href="">Lecture 4&lt;/a>: National income (How it is spent).&lt;/li>
+&lt;li>&lt;a href="">Lecture 5&lt;/a>: A primer on Economic Growth&lt;/li>
+&lt;li>&lt;a href="">Lecture 6&lt;/a>: Growth Theory (Solow and extensions).&lt;/li>
+&lt;li>&lt;a href="">Lecture 7&lt;/a>: Proximate vs. fundamental causes of economic growth.&lt;/li>
+&lt;li>&lt;a href="">Lecture 8&lt;/a>: The monetary system.&lt;/li>
+&lt;li>&lt;a href="">Lecture 9&lt;/a>: The open economy.&lt;/li>
+&lt;li>&lt;a href="">Lecture 10&lt;/a>: Unemployment and labor markets.&lt;/li>
+&lt;li>&lt;a href="">Lecture 11&lt;/a>: Economic fluctuations.&lt;/li>
+&lt;li>&lt;a href="">Lecture 12&lt;/a>: Aggregate demand I (Building the IS-LM model).&lt;/li>
+&lt;li>&lt;a href="">Lecture 12&lt;/a>: Aggregate demand II (Applying the IS-LM model).&lt;/li>
+&lt;li>&lt;a href="">Lecture 13&lt;/a>: The open economy revisited (Mundell-Fleming and Exchange Rates).&lt;/li>
+&lt;li>&lt;a href="">Lecture 14&lt;/a>: Short-run tradeoff between unemployment and inflation.&lt;/li>
+&lt;li>&lt;a href="">Lecture 15&lt;/a>: A dynamic model of economic fluctuations.&lt;/li>
+&lt;li>&lt;a href="">Lecture 16&lt;/a>: Alternative perspectives on stabilization policy.&lt;/li>
+&lt;li>&lt;a href="">Lecture 17&lt;/a>: Government debt and budget deficits.&lt;/li>
+&lt;li>&lt;a href="">Lecture 18&lt;/a>: Banking and monetary policy.&lt;/li>
+&lt;li>&lt;a href="">Lecture 19&lt;/a>: The financial system (Opportunities and dangers).&lt;/li>
+&lt;li>&lt;strong>Past exams&lt;/strong>:&lt;/li>
+&lt;/ul></description></item><item><title>On the Efficiency of Competitive Equilibria with Pandemics</title><link>http://localhost:4321/publication/ckp_pandemics/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>http://localhost:4321/publication/ckp_pandemics/</guid><description/></item><item><title>Macroeconomics for Business (ME2720)</title><link>http://localhost:4321/teaching/macro_business/</link><pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate><guid>http://localhost:4321/teaching/macro_business/</guid><description>&lt;p>Welcome! This course intends to give a deep theoretical but also practical knowledge in applied macroeconomics. Strong emphasis is placed on students solving &amp;ldquo;case studies&amp;rdquo; where they are given assignments that should be solved in groups of 2-3 students. The working method where 2-3 students jointly solve assignments are thought to stimulate discussion and create a deeper understanding of macroeconomic problem formulation and problem-solving. The practical assignments consist largely of data collection, data processing, calculation and analysis of results and oral and written presentation.&lt;/p>
 &lt;p>Important parts of the course include:&lt;/p>
 &lt;ul>
 &lt;li>How the different components of the macroeconomics stick together&lt;/li>
