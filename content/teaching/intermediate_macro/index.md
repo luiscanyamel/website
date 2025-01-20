@@ -19,7 +19,7 @@ Welcome! In this course, we will investigate the factors that influence the leve
 
 ### Course Textbook
   * **Macroeconomics** (Twelfth Edition), N. Gregory Mankiw. ISBN: [9781319567651](https://store.macmillanlearning.com/us/product/Macroeconomics/p/1319473474)
-  * More advanced textbook for interested students: _TBD_.
+  * More advanced textbook for interested students:  <span style="color:gray">Macroeconomics (Sixth Edition), Stephen D. Williamson. ISBN: [9780134472119](https://www.pearson.com/en-us/subject-catalog/p/macroeconomics/P200000006442/9780134472119)</span>
 
 ### Office Hours
   * **Office**: <span style="color:blue"> 310C Umphrey Lee</span>.
@@ -27,13 +27,13 @@ Welcome! In this course, we will investigate the factors that influence the leve
   * **Email**: luisperez@smu.edu. 
 
 ### Lecture Meeting Times
-  * **MWF 9:00AM - 9:50AM** (<span style="color:brown">Class #2538</span>)
-  * **MWF 10:00AM - 10:50AM** (<span style="color:brown">Class #3550</span>)
+  * **MWF 9:00AM - 9:50AM** (<span style="color:brown">Section 003 - Class #2538</span>)
+  * **MWF 10:00AM - 10:50AM** (<span style="color:brown">Section 004 - Class #3550</span>)
   
 ### Midterm and Final Exams
-  * **Early-progress exam**: <span style="color:blue">February 24</span> (Monday).
-  * **Midterm**: <span style="color:blue">March 14</span> (Friday).
-  * **Final**: <span style="color:blue">May 9</span> (Friday; <span style="color:gray">pending confirmation by the school.</span>)
+  * **Early-progress exam**: <span style="color:blue">February 24</span> (Monday; in class).
+  * **Midterm 1**: <span style="color:blue">March 14</span> (Friday; in class).
+  * **Midterm 2**: <span style="color:blue">May 6</span> (Tuesday; in class).
 
 
 ## Introductory Podcast
@@ -49,8 +49,8 @@ Much of macroeconomics is concerned with long-term economic growth. Listen to [D
 Here you can find _syllabus_, _slides_, and examples of _past exams_.
 {{% /callout %}}
 
-  * [Syllabus]().
-  * [Lecture 1](): Introduction and course logistics.
+  * [Syllabus (section 003)](https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-003-Intermediate-Macroeconomics.pdf?locale=en-US), [Syllabus (section 004)](https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-004-Intermediate-Macroeconomics.pdf?locale=en-US).
+  * [Lecture 1](slides/Lect1_ECO3302.pdf): Introduction and course logistics.
   * [Lecture 2](): Becoming a macroeconomist (models and data).
   * [Lecture 3](): National income (How it is earned).
   * [Lecture 4](): National income (How it is spent).

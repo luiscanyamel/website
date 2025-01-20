@@ -6,7 +6,7 @@
 &lt;h3 id="course-textbook">Course Textbook&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Macroeconomics&lt;/strong> (Twelfth Edition), N. Gregory Mankiw. ISBN: &lt;a href="https://store.macmillanlearning.com/us/product/Macroeconomics/p/1319473474">9781319567651&lt;/a>&lt;/li>
-&lt;li>More advanced textbook for interested students: &lt;em>TBD&lt;/em>.&lt;/li>
+&lt;li>More advanced textbook for interested students: &lt;span style="color:gray">Macroeconomics (Sixth Edition), Stephen D. Williamson. ISBN: &lt;a href="https://www.pearson.com/en-us/subject-catalog/p/macroeconomics/P200000006442/9780134472119">9780134472119&lt;/a>&lt;/span>&lt;/li>
 &lt;/ul>
 &lt;h3 id="office-hours">Office Hours&lt;/h3>
 &lt;ul>
@@ -16,14 +16,14 @@
 &lt;/ul>
 &lt;h3 id="lecture-meeting-times">Lecture Meeting Times&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>MWF 9:00AM - 9:50AM&lt;/strong> (&lt;span style="color:brown">Class #2538&lt;/span>)&lt;/li>
-&lt;li>&lt;strong>MWF 10:00AM - 10:50AM&lt;/strong> (&lt;span style="color:brown">Class #3550&lt;/span>)&lt;/li>
+&lt;li>&lt;strong>MWF 9:00AM - 9:50AM&lt;/strong> (&lt;span style="color:brown">Section 003 - Class #2538&lt;/span>)&lt;/li>
+&lt;li>&lt;strong>MWF 10:00AM - 10:50AM&lt;/strong> (&lt;span style="color:brown">Section 004 - Class #3550&lt;/span>)&lt;/li>
 &lt;/ul>
 &lt;h3 id="midterm-and-final-exams">Midterm and Final Exams&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Early-progress exam&lt;/strong>: &lt;span style="color:blue">February 24&lt;/span> (Monday).&lt;/li>
-&lt;li>&lt;strong>Midterm&lt;/strong>: &lt;span style="color:blue">March 14&lt;/span> (Friday).&lt;/li>
-&lt;li>&lt;strong>Final&lt;/strong>: &lt;span style="color:blue">May 9&lt;/span> (Friday; &lt;span style="color:gray">pending confirmation by the school.&lt;/span>)&lt;/li>
+&lt;li>&lt;strong>Early-progress exam&lt;/strong>: &lt;span style="color:blue">February 24&lt;/span> (Monday; in class).&lt;/li>
+&lt;li>&lt;strong>Midterm 1&lt;/strong>: &lt;span style="color:blue">March 14&lt;/span> (Friday; in class).&lt;/li>
+&lt;li>&lt;strong>Midterm 2&lt;/strong>: &lt;span style="color:blue">May 6&lt;/span> (Tuesday; in class).&lt;/li>
 &lt;/ul>
 &lt;h2 id="introductory-podcast">Introductory Podcast&lt;/h2>
 &lt;p>Much of macroeconomics is concerned with long-term economic growth. Listen to &lt;a href="https://economics.mit.edu/people/faculty/daron-acemoglu">Daron Acemoglu&lt;/a>, this year&amp;rsquo;s Economics Nobel laureate, talk about what makes countries succeed or fail.&lt;/p>
@@ -39,8 +39,8 @@
 &lt;span class="dark:text-neutral-300">Here you can find &lt;em>syllabus&lt;/em>, &lt;em>slides&lt;/em>, and examples of &lt;em>past exams&lt;/em>.&lt;/span>
 &lt;/div>
 &lt;ul>
-&lt;li>&lt;a href="">Syllabus&lt;/a>.&lt;/li>
-&lt;li>&lt;a href="">Lecture 1&lt;/a>: Introduction and course logistics.&lt;/li>
+&lt;li>&lt;a href="https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-003-Intermediate-Macroeconomics.pdf?locale=en-US">Syllabus (section 003)&lt;/a>, &lt;a href="https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-004-Intermediate-Macroeconomics.pdf?locale=en-US">Syllabus (section 004)&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="slides/Lect1_ECO3302.pdf">Lecture 1&lt;/a>: Introduction and course logistics.&lt;/li>
 &lt;li>&lt;a href="">Lecture 2&lt;/a>: Becoming a macroeconomist (models and data).&lt;/li>
 &lt;li>&lt;a href="">Lecture 3&lt;/a>: National income (How it is earned).&lt;/li>
 &lt;li>&lt;a href="">Lecture 4&lt;/a>: National income (How it is spent).&lt;/li>
