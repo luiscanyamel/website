@@ -1,6 +1,6 @@
 ---
 title: Economy of Latin America (ECON4311)
-summary: Taught at the University of Minnesota from Fall 2021 to Spring 2024
+summary: Undergraduate, University of Minnesota, Fall 2021 -- Spring 2024
 date: 2024-05-31
 type: docs
 math: false

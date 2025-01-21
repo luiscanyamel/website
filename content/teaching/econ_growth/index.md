@@ -1,6 +1,6 @@
 ---
 title: Economic Growth (ME2708)
-summary: Taught at KTH Royal Institute of Technology in Spring 2018
+summary: Graduate (master's level), KTH Royal Institute of Technology, Spring 2018
 date: 2018-06-20
 type: docs
 math: false

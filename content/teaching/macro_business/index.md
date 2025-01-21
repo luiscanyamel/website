@@ -1,6 +1,6 @@
 ---
 title: Macroeconomics for Business (ME2720)
-summary: Taught at KTH Royal Institute of Technology in Fall 2017
+summary: Graduate (master's level), KTH Royal Institute of Technology, Fall 2017
 date: 2018-01-16
 type: docs
 math: false
