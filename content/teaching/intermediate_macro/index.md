@@ -1,7 +1,7 @@
 ---
 title: Intermediate Macroeconomics (ECO3302)
 summary: Undergraduate, SMU, Spring 2025
-date: 2025-02-21
+date: 2025-01-21
 type: docs
 math: false
 tags:
