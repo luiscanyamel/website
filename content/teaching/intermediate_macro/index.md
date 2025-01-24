@@ -51,7 +51,7 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
 
   * [Syllabus (section 003)](https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-003-Intermediate-Macroeconomics.pdf?locale=en-US), [Syllabus (section 004)](https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-004-Intermediate-Macroeconomics.pdf?locale=en-US).
   * [Lecture 1](slides/Lect1_ECO3302.pdf): Introduction and course logistics.
-  * [Lecture 2](): Becoming a macroeconomist (models and data).
+  * [Lecture 2](slides/Lect2&3_ECO3302.pdf): Becoming a macroeconomist (models and data).
   * [Lecture 3](): National income (How it is earned).
   * [Lecture 4](): National income (How it is spent).
   * [Lecture 5](): A primer on Economic Growth
