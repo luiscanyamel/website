@@ -50,24 +50,25 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
 {{% /callout %}}
 
   * [Syllabus (section 003)](https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-003-Intermediate-Macroeconomics.pdf?locale=en-US), [Syllabus (section 004)](https://smu.simplesyllabus.com/api2/doc-pdf/ysjwqhwu5/Spring-2025-ECO-3302-004-Intermediate-Macroeconomics.pdf?locale=en-US).
+  * **Math refresher**: [Properties of natural logs](notes/LogRules_ECO3302.pdf), [Basic derivative rules](notes/Derivatives_ECO3302.pdf)
   * [Lecture 1](slides/Lect1_ECO3302.pdf): Introduction and course logistics.
-  * [Lecture 2](slides/Lect2&3_ECO3302.pdf): Becoming a macroeconomist (models and data).
-  * [Lecture 3](slides/Lect4_ECO3302.pdf): National income (How it is earned).
-  * [Lecture 4](): National income (How it is spent).
-  * [Lecture 5](): A primer on Economic Growth
-  * [Lecture 6](): Growth Theory (Solow and extensions).
-  * [Lecture 7](): Proximate vs. fundamental causes of economic growth.
-  * [Lecture 8](): The monetary system.
-  * [Lecture 9](): The open economy.
-  * [Lecture 10](): Unemployment and labor markets.
-  * [Lecture 11](): Economic fluctuations.
-  * [Lecture 12](): Aggregate demand I (Building the IS-LM model).
-  * [Lecture 12](): Aggregate demand II (Applying the IS-LM model).
-  * [Lecture 13](): The open economy revisited (Mundell-Fleming and Exchange Rates).
-  * [Lecture 14](): Short-run tradeoff between unemployment and inflation.
-  * [Lecture 15](): A dynamic model of economic fluctuations.
-  * [Lecture 16](): Alternative perspectives on stabilization policy.
-  * [Lecture 17](): Government debt and budget deficits.
-  * [Lecture 18](): Banking and monetary policy.
-  * [Lecture 19](): The financial system (Opportunities and dangers).
+  * [Lectures 2&3](slides/Lect2&3_ECO3302.pdf): Becoming a macroeconomist (models and data).
+  * [Lecture 4](slides/Lect4_ECO3302.pdf): National income (How it is earned). [Short technical note](notes/Notes_Lect2&3_ECO3302.pdf)
+  * [Lecture 5](): National income (How it is spent).
+  * [Lecture 6](): A primer on Economic Growth
+  * [Lecture 7](): Growth Theory (Solow and extensions).
+  * [Lecture 8](): Proximate vs. fundamental causes of economic growth.
+  * [Lecture 9](): The monetary system.
+  * [Lecture 10](): The open economy.
+  * [Lecture 11](): Unemployment and labor markets.
+  * [Lecture 12](): Economic fluctuations.
+  * [Lecture 13](): Aggregate demand I (Building the IS-LM model).
+  * [Lecture 14](): Aggregate demand II (Applying the IS-LM model).
+  * [Lecture 15](): The open economy revisited (Mundell-Fleming and Exchange Rates).
+  * [Lecture 16](): Short-run tradeoff between unemployment and inflation.
+  * [Lecture 17](): A dynamic model of economic fluctuations.
+  * [Lecture 18](): Alternative perspectives on stabilization policy.
+  * [Lecture 19](): Government debt and budget deficits.
+  * [Lecture 20](): Banking and monetary policy.
+  * [Lecture 21](): The financial system (Opportunities and dangers).
   * **Past exams**: 
