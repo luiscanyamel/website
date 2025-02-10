@@ -54,7 +54,7 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 1](slides/Lect1_ECO3302.pdf): Introduction and course logistics.
   * [Lectures 2&3](slides/Lect2&3_ECO3302.pdf): Becoming a macroeconomist (models and data).
   * [Lecture 4](slides/Lect4_ECO3302.pdf): National income (How it is earned). [Short technical note](notes/Notes_Lect2&3_ECO3302.pdf)
-  * [Lecture 5](): National income (How it is spent).
+  * [Lecture 5](slides/Lect5_ECO3302.pdf): National income (How it is spent).
   * [Lecture 6](): A primer on Economic Growth
   * [Lecture 7](): Growth Theory (Solow and extensions).
   * [Lecture 8](): Proximate vs. fundamental causes of economic growth.
