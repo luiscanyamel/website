@@ -56,7 +56,7 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 4](slides/Lect4_ECO3302.pdf): National income (How it is earned). [Short technical note](notes/Notes_Lect2&3_ECO3302.pdf)
   * [Lecture 5](slides/Lect5_ECO3302.pdf): National income (How it is spent).
   * [Lecture 6](slides/Lect6_ECO3302.pdf): A primer on Economic Growth
-  * [Lecture 7](): Growth Theory (Solow and extensions).
+  * [Lecture 7](slides/Lect7_ECO3302.pdf): Growth Theory (Solow and extensions).
   * [Lecture 8](): Proximate vs. fundamental causes of economic growth.
   * [Lecture 9](): The monetary system.
   * [Lecture 10](): The open economy.
