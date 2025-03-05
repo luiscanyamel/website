@@ -71,4 +71,4 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 19](): Government debt and budget deficits.
   * [Lecture 20](): Banking and monetary policy.
   * [Lecture 21](): The financial system (Opportunities and dangers).
-  * **Past exams**: [exam/EP_Exam_S25_ECO3302.pdf](Early-progress exam S25)
+  * **Past exams**: [Early-progress exam S25](exam/EP_Exam_S25_ECO3302.pdf)
