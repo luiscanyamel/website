@@ -72,3 +72,4 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 20](): Banking and monetary policy.
   * [Lecture 21](): The financial system (Opportunities and dangers).
   * **Past exams**: [Early-progress exam S25](exam/EP_Exam_S25_ECO3302.pdf)
+  * **Practice questions**: [Early-progress exam](practice/PQs_EPexam.pdf), [Midterm 1](practice/PQs_M1exam.pdf)
