@@ -57,7 +57,7 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 5](slides/Lect5_ECO3302.pdf): National income (How it is spent).
   * [Lecture 6](slides/Lect6_ECO3302.pdf): A primer on Economic Growth
   * [Lecture 7](slides/Lect7_ECO3302.pdf): Growth Theory (Solow and extensions).
-  * [Lecture 8](): Proximate vs. fundamental causes of economic growth.
+  * [Lecture 8](slides/Lect8_ECO3302.pdf): Proximate vs. fundamental causes of economic growth.
   * [Lecture 9](): The monetary system.
   * [Lecture 10](): The open economy.
   * [Lecture 11](): Unemployment and labor markets.
@@ -71,5 +71,5 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 19](): Government debt and budget deficits.
   * [Lecture 20](): Banking and monetary policy.
   * [Lecture 21](): The financial system (Opportunities and dangers).
-  * **Past exams**: [Early-progress exam S25](exam/EP_Exam_S25_ECO3302.pdf)
+  * **Past exams**: [Early-progress exam S25](exam/EP_Exam_S25_ECO3302.pdf), [Midterm 1 S25](exam/M1_Exam_S25_ECO3302.pdf)
   * **Practice questions**: [Early-progress exam](practice/PQs_EPexam.pdf), [Midterm 1](practice/PQs_M1exam.pdf)
