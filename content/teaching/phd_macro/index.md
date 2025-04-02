@@ -1,5 +1,5 @@
 ---
-title: Advanced Macroeconomic Theory 
+title: Advanced Macroeconomics 
 summary: Graduate (PhD), SMU, Spring 2026
 date: 2025-04-01
 type: docs
