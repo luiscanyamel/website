@@ -15,10 +15,10 @@ image:
 Welcome! In this course, we will investigate the factors that influence the level of aggregate economic activity and the decision-making that ultimately results in the determination of aggregate economic quantities (e.g., levels of consumption, investment, and employment). You will learn about a wide array of topics, including inflation, exchange rates, business dynamism, monetary and fiscal policy, financial markets, labor markets, etc. You will also analyze the impact of various government fiscal policies (using general equilibrium models) and the behavior of business cycles and patterns across various countries. The hope is that at the end of this course you have a solid understanding of basic macreoconomic concepts, and feel comfortable compiling, analyzing, and writting reports using macroeconomic data. 
 
 ### Prerequisites
-You are assumed to be familiar with the basic rules of calculus, which you should have learned in one of the following courses: 
+You are assumed to be familiar with the basic rules of calculus, which should have been covered in one or more of the following courses: 
 [ECO 1311](https://catalog.smu.edu/preview_course_nopop.php?catoid=33&coid=120231), [ECO 1312](https://catalog.smu.edu/preview_course_nopop.php?catoid=59&coid=223285), [ECO 3301](https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=44547), and [MATH 1309](https://catalog.smu.edu/preview_course_nopop.php?catoid=56&coid=211901) or [MATH 1337](https://catalog.smu.edu/preview_course_nopop.php?catoid=33&coid=121240).
 
-If not, familiarize yourself with the [properties of natural logs](notes/LogRules_ECO3302.pdf) and [basic derivative rules](notes/Derivatives_ECO3302.pdf). These will play an important role in our course. 
+If not, familiarize yourself with the [properties of natural logs](notes/LogRules_ECO3302.pdf) and [basic derivative rules](notes/Derivatives_ECO3302.pdf), as these will play an important role in our course. 
 
 ### Course Textbook
   * **Macroeconomics** (Twelfth Edition), N. Gregory Mankiw. ISBN: [9781319567651](https://store.macmillanlearning.com/us/product/Macroeconomics/p/1319473474)
