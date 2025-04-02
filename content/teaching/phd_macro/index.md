@@ -10,7 +10,7 @@ tags:
 image: 
   caption: ''
 ---
-<img alt = '' src='/teaching/intermediate_macro/advanced_macro.jpg' />
+<img alt = '' src='/teaching/phd_macro/advanced_macro.jpg' />
 
 ## Overview
 **UNDER CONSTRUCTION**
