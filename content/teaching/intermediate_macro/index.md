@@ -63,7 +63,7 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 8](slides/Lect8_ECO3302.pdf): Proximate vs. fundamental causes of economic growth.
   * [Lecture 9](slides/Lect9_ECO3302.pdf): The monetary system and inflation.
   * [Lecture 10](slides/Lect10_ECO3302.pdf): The open economy.
-  * [Lecture 11](): Unemployment and labor markets.
+  * [Lecture 11](slides/Lect11_ECO3302.pdf): Unemployment and labor markets.
   * [Lecture 12](): Economic fluctuations.
   * [Lecture 13](): Aggregate demand I (Building the IS-LM model).
   * [Lecture 14](): Aggregate demand II (Applying the IS-LM model).
