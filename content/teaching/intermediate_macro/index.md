@@ -65,8 +65,8 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 10](slides/Lect10_ECO3302.pdf): The open economy.
   * [Lecture 11](slides/Lect11_ECO3302.pdf): Unemployment and labor markets.
   * [Lecture 12](slides/Lect12_ECO3302.pdf): Economic fluctuations.
-  * [Lecture 13](): Aggregate demand I (Building the IS-LM model).
-  * [Lecture 14](): Aggregate demand II (Applying the IS-LM model).
+  * [Lecture 13](slides/Lect13_ECO3302.pdf): Aggregate demand I (Building the IS-LM model).
+  * [Lecture 14](slides/Lect14_ECO3302.pdf): Aggregate demand II (Applying the IS-LM model).
   * [Lecture 15](): The open economy revisited (Mundell-Fleming and Exchange Rates).
   * [Lecture 16](): Short-run tradeoff between unemployment and inflation.
   * [Lecture 17](): A dynamic model of economic fluctuations.
