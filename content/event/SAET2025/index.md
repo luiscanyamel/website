@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: Spanish Economic Assocation [**Spanish Economic Assocation**](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia-2024/)'
+  caption: 'Image credit: Society for the Advancement of Economic Theory [**Society for the Advancement of Economic Theory**](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia-2024/)'
   focal_point: left
 
 
