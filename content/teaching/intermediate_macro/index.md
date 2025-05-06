@@ -67,12 +67,5 @@ Here you can find _syllabus_, _slides_, and examples of _past exams_.
   * [Lecture 12](slides/Lect12_ECO3302.pdf): Economic fluctuations.
   * [Lecture 13](slides/Lect13_ECO3302.pdf): Aggregate demand I (Building the IS-LM model).
   * [Lecture 14](slides/Lect14_ECO3302.pdf): Aggregate demand II (Applying the IS-LM model).
-  * [Lecture 15](): The open economy revisited (Mundell-Fleming and Exchange Rates).
-  * [Lecture 16](): Short-run tradeoff between unemployment and inflation.
-  * [Lecture 17](): A dynamic model of economic fluctuations.
-  * [Lecture 18](): Alternative perspectives on stabilization policy.
-  * [Lecture 19](): Government debt and budget deficits.
-  * [Lecture 20](): Banking and monetary policy.
-  * [Lecture 21](): The financial system (Opportunities and dangers).
-  * **Past exams**: [Early-progress exam S25](exam/EP_Exam_S25_ECO3302.pdf), [Midterm 1 S25](exam/M1_Exam_S25_ECO3302.pdf)
+   * **Past exams**: [Early-progress exam S25](exam/EP_Exam_S25_ECO3302.pdf), [Midterm 1 S25](exam/M1_Exam_S25_ECO3302.pdf), [Midterm 2 S25](exam/M2_Exam_S25_ECO3302.pdf)
   * **Practice questions**: [Early-progress exam](practice/PQs_EPexam.pdf), [Midterm 1](practice/PQs_M1exam.pdf)
