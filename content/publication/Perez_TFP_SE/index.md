@@ -24,7 +24,7 @@ publication_types: ['working paper']
 publication: 
 publication_short: 
 
-abstract: Using a growth-accounting framework for open and distorted economies with input-output linkages, **I document that the evolution of aggregate TFP in Spain has been less dismal than previously thought.**  This is because distortions introduce a downward bias in traditional measures of Spanish TFP based on Solow's residual. An unbiased measure of TFP—Hall's residual— reveals that _TFP in Spain started declining in 1995, not in 1988, and that it declined by 7, not 10, percentage points._ To understand what is driving the decline of aggregate TFP, **I decompose TFP into technical efficiency, domestic reallocation, and international trade.** _I find that the decline in Spanish TFP is mostly driven by declines in technical efficiency and negative reallocation effects._ International trade had a large, positive impact on TFP. _I show that despite declining TFP, welfare increased by 10 percentage points from 1995 to 2010. This is because Spanish households benefited from positive technological- and reallocation effects across the globe._ Results for Italy can be found in the paper.
+abstract: Using a growth-accounting framework for open and distorted economies with input-output linkages, **I document that the evolution of aggregate TFP in Spain has been less dismal than previously thought.**  This is because distortions introduce a downward bias in traditional measures of Spanish TFP based on Solow's residual. An unbiased measure of TFP reveals that _TFP in Spain started declining in 1995, not in 1988, and that it declined by 7, not 10, percentage points._ To understand what is driving the decline of aggregate TFP, **I decompose TFP into technical efficiency, domestic reallocation, and international trade.** _I find that the decline in Spanish TFP is mostly driven by declines in technical efficiency and negative reallocation effects._ International trade had a large, positive impact on TFP. _I show that despite declining TFP, welfare increased by 10 percentage points from 1995 to 2010. This is because Spanish households benefited from positive technological- and reallocation effects across the globe._ Results for Italy can be found in the paper.
 
 # Summary. An optional shortened abstract.
 summary: What explains the dismal evolution of total factor productivity (TFP) in Spain and Italy? And what are the welfare implications of such TFP declines?
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: ''
+url_pdf: 'TFP_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
