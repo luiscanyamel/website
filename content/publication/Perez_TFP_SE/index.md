@@ -20,8 +20,8 @@ publishDate: '2025-05-23T00:00:00Z'
 # Enter a publication type from the CSL standard. Before: 'paper-conference'
 publication_types: ['working paper']
 
-# Publication name and optional abbreviated publication name.
-publication: 'Submitted to *AEJ: Macroeconomics*'
+# Publication name and optional abbreviated publication name. (Submitted to *AEJ: Macroeconomics*)
+publication: ''
 publication_short: 
 
 abstract: This paper reexamines the evolution of total factor productivity (TFP) and its relationship to aggregate welfare in Spain and Italy. Using a growth-accounting framework for open and distorted economies with input-output linkages, I construct new series of "true" TFP that correct for biases in conventional estimates. **I show that the decline in aggregate productivity in both countries was milder and occurred later than previously reported**---beginning in 1995 in Spain and 2000 in Italy. These differences reflect a secular rise in distortions, which depress the Solow residual and bias standard TFP measures downward. Decomposing the sources of TFP change, I find that a deterioration in technical efficiency and domestic allocative efficiency account for most of the decline, while international trade contributed positively. **Despite falling productivity, both countries experienced welfare gains**, driven by improved access to global goods and more efficient international resource allocation. These findings underscore the importance of accounting for distortions and open-economy forces in empirical assessments of productivity and welfare.
