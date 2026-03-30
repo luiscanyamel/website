@@ -1,5 +1,5 @@
 ---
-title: 'The Evolution of TFP in Spain and Italy'
+title: 'The TFP-Welfare Disconnect: Evidence from Southern Europe'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,11 +9,11 @@ authors:
 
 # Author notes (optional)
 author_notes:
-date: '2025-05-23T00:00:00Z'
+date: '2026-03-30T10:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-23T00:00:00Z'
+publishDate: '2026-03-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +24,7 @@ publication_types: ['working paper']
 publication: ''
 publication_short: 
 
-abstract: This paper reexamines the evolution of total factor productivity (TFP) and its relationship to aggregate welfare in Spain and Italy. Using a growth-accounting framework for open and distorted economies with input-output linkages, I construct new series of "true" TFP that correct for biases in conventional estimates. **I show that the decline in aggregate productivity in both countries was milder and occurred later than previously reported**---beginning in 1995 in Spain and 2000 in Italy. These differences reflect a secular rise in distortions, which depress the Solow residual and bias standard TFP measures downward. Decomposing the sources of TFP change, I find that a deterioration in technical efficiency and domestic allocative efficiency account for most of the decline, while international trade contributed positively. **Despite falling productivity, both countries experienced welfare gains**, driven by improved access to global goods and more efficient international resource allocation. These findings underscore the importance of accounting for distortions and open-economy forces in empirical assessments of productivity and welfare.
+abstract: This paper studies the joint evolution of aggregate productivity and welfare in Spain and Italy between 1970 and 2010. Using a growth-accounting framework for open and distorted economies with input-output linkages, I construct aggregate TFP measures that correct biases in conventional Solow residuals. Once distortions are taken into account, the productivity decline in Spain begins seven years later and is roughly half as large as the traditional Solow residual suggests. To identify the sources of this decline, I develop a novel decomposition of aggregate TFP growth that separates the contributions of technical efficiency, factor reallocation, and changes in domestic and foreign intermediate linkages. I find that Spain's TFP decline is driven entirely by the reallocation of capital and labor toward low-productivity service sectors, whereas in Italy the decline is driven mainly by deteriorating technical efficiency. Aggregate welfare nevertheless continued to rise in both countries, sustained by factor accumulation and technological progress at home and abroad, revealing a systematic TFP-welfare disconnect. 
 
 # Summary. An optional shortened abstract.
 summary: What explains the dismal evolution of total factor productivity (TFP) in Spain and Italy? And what are the welfare implications of such TFP declines?
@@ -47,7 +47,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'TFP_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
