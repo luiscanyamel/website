@@ -1,5 +1,5 @@
 ---
-title: "The Micro-Aggregated Profit Share *(Updated version)*"
+title: "The Micro-Aggregated Profit Share"
 authors:
   - Thomas Hasenzagl
   - admin
@@ -20,11 +20,10 @@ publication_types: ["working paper"]
 publication: ""
 publication_short: ""
 
-abstract: "How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits? Using micro-level data from U.S. Compustat, we find that several indicators of market power have steadily increased since 1960. In particular, the aggregate markup has gone up from roughly 10% of price over marginal cost in 1960 to 25% in 2020, and aggregate returns to scale have risen from about 1.03 to 1.15. We connect these market power indicators to profitability by showing that the aggregate profit share can be expressed in terms of the aggregate markup, aggregate returns to scale, and a sufficient statistic for production networks that captures double marginalization in the economy. We find that despite the rise in market power, the profit share has been constant at 16% of GDP because the increase in monopoly rents (associated with increasing markups) has been completely offset by rising fixed costs and changes in technology. Our empirical results have subtle implications for policymakers: overly aggressive enforcement of antitrust law could decrease firm dynamism and paradoxically lead to lower competition and higher market power.
+abstract: "How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits? Using micro-level data from U.S. Compustat, we find that several indicators of market power have steadily increased since 1960. In particular, the aggregate markup has gone up from roughly 10% of price over marginal cost in 1960 to 25% in 2020, and aggregate returns to scale have risen from about 1.03 to 1.15. We connect these market power indicators to profitability by showing that the aggregate profit share can be expressed in terms of the aggregate markup, aggregate returns to scale, and a sufficient statistic for production networks that captures double marginalization in the economy. We find that despite the rise in market power, the profit share has been constant at 16% of GDP because the increase in monopoly rents (associated with increasing markups) has been completely offset by rising fixed costs and changes in technology. Our empirical results have subtle implications for policymakers: overly aggressive enforcement of antitrust law could decrease firm dynamism and paradoxically lead to lower competition and higher market power."
 
 # Summary. An optional shortened abstract.
-summary: "How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits?"
-
+summary: 'How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits? <span style="color:#1f77b4; font-style: italic;">Updated version</span>'
 tags:
 - Market Power
 - Income Shares
