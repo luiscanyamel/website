@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'PPMC_draft.pdf'
+url_pdf: 'uploads/PPMC_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
