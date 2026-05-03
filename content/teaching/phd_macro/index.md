@@ -12,12 +12,6 @@ image:
 ---
 <img alt = '' src='/teaching/phd_macro/advanced_macro.png' />
 
-## Overview
-**UNDER CONSTRUCTION**
-
-### Prerequisites
-  * TBD
-
 ### Course Textbook
  * **Recursive Macroeconomic Theory** (Fourth Edition), L. Ljungqvist and T. J. Sargent. ISBN: [9780262038669](https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/)
   * **Recursive Methods in Economic Dynamics.** (Fourth Edition), N. L. Stokey and R. E. Lucas with E. C. Prescott. ISBN: [9780674750968](https://www.hup.harvard.edu/books/9780674750968)
