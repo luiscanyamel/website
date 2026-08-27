@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://luiscanyamel.github.io/website_materials/JMP_LuisPerez.pdf
+url_pdf: 'MAPS_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
