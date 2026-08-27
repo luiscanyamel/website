@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'MAPS_draft.pdf'
+url_pdf: 'uploads/MAPS_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
