@@ -28,6 +28,7 @@ tags:
 - Market Power
 - Income Shares
 - Markups
+- Markdowns
 - Profits
 
 featured: true
