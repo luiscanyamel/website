@@ -5,11 +5,11 @@ authors:
   - admin
 
 
-date: "2026-08-27T00:00:00Z"
+date: "2026-04-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-08-27T00:00:00Z"
+publishDate: "2026-04-13T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'uploads/MAPS_draft.pdf'
+url_pdf: https://luiscanyamel.github.io/website_materials/JMP_LuisPerez.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -5,11 +5,11 @@ authors:
   - admin
 
 
-date: "2026-08-21T00:00:00Z"
+date: "2026-04-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-08-21T00:00:00Z"
+publishDate: "2026-01-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,7 +20,7 @@ publication_types: ["working paper"]
 publication: ""
 publication_short: ""
 
-abstract: "Why are markups cyclical, and why does their cyclicality vary across firms, sectors, and business-cycle episodes? We develop a theory in which risk-averse firms post prices before costs and demand are realized and use prices to manage their risk exposure. Cost uncertainty induces firms to raise prices to limit sales in high-cost states, whereas demand uncertainty induces them to lower prices to support sales in weak-demand states. These opposing responses imply that markup cyclicality depends on the composition and cyclicality of risk, as well as on realized marginal-cost shocks. We test these predictions using U.S. manufacturing data. A one-standard-deviation increase in cost uncertainty raises markups by 1.3 percent, while the same increase in demand uncertainty lowers them by 1.2 percent. Using these estimates, we decompose markup cyclicality and find that realized marginal-cost shocks dominate overall, while uncertainty matters more in earlier business-cycle episodes and recessions. We embed the precautionary-pricing mechanism in a general-equilibrium model of firm dynamics. Eliminating precautionary pricing may appear welfare-improving because lower markups increase allocative efficiency. In general equilibrium, however, it also induces substantial firm exit and reduces product variety, offsetting the welfare gains from lower markups."
+abstract: "Why are markups cyclical, and why does their cyclicality vary across firms, sectors, and business cycle episodes? This paper develops a theory of pricing under uncertainty in which risk-averse firms set prices before costs and demand are realized. In this environment, pricing serves a precautionary role: optimal markups incorporate a risk premium that reflects the value of limiting exposure to uninsurable cost and demand risk. A central implication is that markup dynamics depend on the composition of risk firms face. Cost risk and demand risk affect pricing incentives in systematically different ways, so whether markups are procyclical or countercyclical depends on which source of risk dominates and how it co-moves with economic activity. We test these predictions using industry-level data for U.S. manufacturing over 1976–2018. Consistent with the theory, a one-standard-deviation increase in cost uncertainty raises prices by 5.8%, while a comparable increase in demand uncertainty lowers prices by 6.6%. The structural calibration of the dynamic GE model and the corresponding quantitative exercises—impulse responses to uncertainty shocks, welfare costs, the historical 1976–2018 path, and untargeted cross-industry validation—are work in progress and will appear in a subsequent draft."
 
 # Summary. An optional shortened abstract.
 summary: 'Why are markups cyclical, and why does their cyclicality vary across firms, sectors, and business cycle episodes? This paper develops a theory of pricing under uncertainty in which risk-averse firms set prices before costs and demand are realized.'
