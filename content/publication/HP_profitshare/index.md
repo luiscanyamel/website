@@ -5,11 +5,11 @@ authors:
   - admin
 
 
-date: "2026-08-29T00:00:00Z"
+date: "2026-08-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-08-29T00:00:00Z"
+publishDate: "2026-08-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,7 +20,7 @@ publication_types: ["working paper"]
 publication: ""
 publication_short: ""
 
-abstract: "How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits? Using micro-level data from U.S. Compustat, we find that several indicators of market power have increased substantially since 1960. In particular, the aggregate markup has gone up from roughly 10% of price over marginal cost in 1960 to 25% in 2020, and aggregate returns to scale have risen from about 1.03 to 1.15. We connect these market-power indicators to profitability by showing that the aggregate profit share can be expressed in terms of the aggregate markup, aggregate returns to scale, and a sufficient statistic for production networks that captures double marginalization in the economy. We find that despite the rise in market power, the profit share has been constant at 16% of GDP because the increase in monopoly rents associated with higher markups has been completely offset by rising fixed costs and changes in technology. Using confidential Census of Manufactures data, we further show that labor-market power is an important source of manufacturing profits: in 2017, monopoly and monopsony account for 62 and 38 percent of the manufacturing profit share, respectively. Our empirical results have subtle implications for policymakers: overly aggressive enforcement of antitrust law could decrease firm dynamism and paradoxically lead to lower competition and higher market power."
+abstract: "How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits? Using micro-level data from U.S. Compustat, we find that several indicators of market power have increased substantially since 1960. In particular, the aggregate markup has gone up from roughly 10% of price over marginal cost in 1960 to 25% in 2020, and aggregate returns to scale have risen from about 1.03 to 1.15. We develop a micro approach to the aggregate profit share that, unlike the standard macro appraoch treating profits as a residual, constructs it from producer-level data and links aggregate profitability to market power, returns to scale, and production networks. We find that despite the profit share has been constant at 16% of GDP because the rise in market power has been completely offset by rising fixed costs and changes in technology. Using confidential Census of Manufactures data, we further show that labor-market power is an important source of manufacturing profits: in 2017, monopoly and monopsony account for 62 and 38 percent of the manufacturing profit share, respectively."
 
 # Summary. An optional shortened abstract.
 summary: 'How much has market power increased in the United States in the last sixty years? And how did the rise in market power affect aggregate profits? [New version!]'
