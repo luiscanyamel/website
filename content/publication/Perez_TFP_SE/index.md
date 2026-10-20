@@ -1,5 +1,5 @@
 ---
-title: 'The TFP-Welfare Disconnect: Evidence from Southern Europe'
+title: 'Rethingking the Southern European Productivity Declines'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-date: '2026-03-30T10:00:00Z'
+date: '2026-10-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,15 +24,18 @@ publication_types: ['working paper']
 publication: ''
 publication_short: 
 
-abstract: This paper studies the joint evolution of aggregate productivity and welfare in Spain and Italy between 1970 and 2010. Using a growth-accounting framework for open and distorted economies with input-output linkages, I construct aggregate TFP measures that correct biases in conventional Solow residuals. Once distortions are taken into account, the productivity decline in Spain begins seven years later and is roughly half as large as the traditional Solow residual suggests. To identify the sources of this decline, I develop a novel decomposition of aggregate TFP growth that separates the contributions of technical efficiency, factor reallocation, and changes in domestic and foreign intermediate linkages. I find that Spain's TFP decline is driven entirely by the reallocation of capital and labor toward low-productivity service sectors, whereas in Italy the decline is driven mainly by deteriorating technical efficiency. Aggregate welfare nevertheless continued to rise in both countries, sustained by factor accumulation and technological progress at home and abroad, revealing a systematic TFP-welfare disconnect. 
+abstract: I study aggregate productivity in Spain and Italy over 1970–2019. Accounting for distortions and their propagation through production networks roughly halves Spain's measured productivity decline and shifts its onset from 1988 to 1995. I develop a cumulative decomposition that separates within-sector productivity, structural change, and allocative efficiency across industries. In Spain, the shift toward services before 1995 made the later slowdown in sectoral productivity much costlier for aggregate TFP, which studies starting in 1995 miss. In Italy, by contrast, the decline arose mainly from productivity losses within sectors. Misallocation across industries contributed little in either country.
 
 # Summary. An optional shortened abstract.
-summary: What explains the dismal evolution of total factor productivity (TFP) in Spain and Italy? And what are the welfare implications of such TFP declines?
+summary: What explains the dismal evolution of measured productivity in Spain and Italy? 
 
 tags:
   - Productivity
-  - Southern Europe
+  - Distortions
   - Networks
+  - Southern Europe
+  - Structural Change
+  - Misallocation
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +50,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'uploads/TFP_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
