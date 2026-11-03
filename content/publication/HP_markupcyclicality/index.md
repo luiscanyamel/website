@@ -25,7 +25,7 @@ abstract: "Why are markups cyclical, and why does their cyclicality vary across 
 # Summary. An optional shortened abstract.
 summary: 'Why are markups cyclical, and why does their cyclicality vary across firms, sectors, and business cycle episodes? This paper develops a theory of pricing under uncertainty in which risk-averse firms set prices before costs and demand are realized.'
 tags:
-- Markups
+- Markup Cyclicality
 - Pricing under Risk
 - Uncertainty
 - Busines Cycles
