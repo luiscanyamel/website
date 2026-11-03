@@ -24,7 +24,7 @@ publication_types: ['working paper']
 publication: ''
 publication_short: 
 
-abstract: I study aggregate productivity in Spain and Italy over 1970–2019. Accounting for distortions and their propagation through production networks roughly halves Spain’s measured decline and shifts its onset from 1988 to 1995. A cumulative decomposition separates within-sector productivity, between-sector misallocation, and structural change: how shifts in economic activity across sectors alter the contribution of subsequent sectoral productivity growth to aggregate TFP. In Spain, the shift toward services before 1995 made the subsequent productivity slowdown more costly, an effect missed by decompositions beginning in 1995. In Italy, the decline arose mainly within sectors and is less sensitive to the starting production structure.
+abstract: I study aggregate productivity in Spain and Italy over 1970–2019. Accounting for distortions and their propagation through production networks roughly halves Spain's measured productivity decline and shifts its onset from 1988 to 1995. A cumulative decomposition separates within-sector productivity, between-sector misallocation, and structural change: how shifts in economic activity across sectors alter the contribution of subsequent sectoral productivity growth to aggregate TFP. In Spain, the shift toward services before 1995 made the subsequent productivity slowdown more costly, an effect missed by decompositions beginning in 1995. In Italy, the decline arose mainly within sectors and is less sensitive to the starting production structure.
 
 # Summary. An optional shortened abstract.
 summary: What explains the dismal evolution of measured productivity in Spain and Italy? [New version!]
